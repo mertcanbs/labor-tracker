@@ -1,5 +1,5 @@
-# mware
+# Labor Tracker
 
-MWare Labor Tracker
+Allows tracking of labor on site using barcodes.
 
-Readme coming soon
+Uses Firebase as back-end for authentication, database and back-end functions.
